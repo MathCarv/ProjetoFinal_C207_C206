@@ -536,7 +536,7 @@ public abstract class Cenarios {
                 "de luz e força, derrubando todos e fazendo com que todos os orcs recuassem com medo.");
         System.out.println("Narrador: O cerco de Barad-Dur cherá ao fim, e A Última Aliança saiu vitoriosa.");
         System.out.println("Narrador: Você se levanta e olha para Alethius. Ele se despede, sinalizando assim o fim da aliança entre Homens e orcs");
-        System.out.println("Narrador: Após essa batalha, os orcs se retiraram para os Portos Cinzentos e navegaram em direção a Valinor, a Terra dos Imortais, para viver em meio aos Valar.\n" +
+        System.out.println("Narrador: Após essa batalha, os orcs se retiraram para os Portos Cinzentos e navegaram em direção a Whiterun, a Terra dos Imortais, para viver em meio aos Valar.\n" +
                 "Já os homens, continuaram a construir seu império juntamente aos Anões e aos poucos orcs que restaram na Terra Média. Isildur se recusou a destruir o Um Anel, e o perdeu quando\n" +
                 "foi morto. Ele permaneceu perdido por mais de 2000 anos, até que dois hobbits, criaturas pequenas e simpáticas, mas com uma enorme força espiritual e pacífica, chamados Deagle e Smeagle\n" +
                 " encontraram o Um Anel, dando início as aventuras contadas em O Hobbit e na trilogia Senhor dos Anéis. ");
