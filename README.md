@@ -7,7 +7,7 @@ A história do jogo acontece cerca de 200 anos após os eventos de Oblivion, dur
 Para piorar a situação, uma profecia de Elder Scrolls anunciava o retorno dos dragões de Alduin, o deus nórdico da destruição.
 
 <p align="center">
-  <img src="Skyrim.jpg">
+  <img src="Alethius.jpg">
 </p>
 
 ## Conceitos
