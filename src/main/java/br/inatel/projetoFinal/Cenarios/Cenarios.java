@@ -152,7 +152,7 @@ public abstract class Cenarios {
 
         }else{
             System.out.println("Alethius: Certo. Nosso pelotão foi derrotado,sobramos só nós 4. Precisamos dar um jeito de nos agrupar com alguém, não vamos durar muito tempo assim.\n" +
-                    "A aliança com os homens já está enfraquecida, ninguém se ajuda, só estamos juntos para contar números.Eles não confiam em nós e, pra ser bem sincero,\n" +
+                    "A aliança com os homens já está enfraquecida, ninguém se ajuda, só estamos juntos para contar números. Eles não confiam em nós e, pra ser bem sincero,\n" +
                     "também não confio nesses mortais imundos, se Alethius tomar Whiterun, eles vão se aliar a ele e se corromper ao poder do Império, assim como seus antigos reis");
             System.out.println(jogador.getNome() + ": Nem todos os homens pensam assim.");
             System.out.println("Narrador: Enquanto você falava, você percebe um grupo de orcs vindo na direção do seu pelotão.\n" +
@@ -238,9 +238,9 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius : Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci : Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um Orc");
-            System.out.println("Alethius : Você devia se sentir honrado. Nai yaryuvalyë estë sambassë Mandosto");
+            System.out.println("Alethius : Você devia se sentir honrado.");
             System.out.println("Adrianne Avenicci : Que? Esse maluco de orelha pontuda xingou a gente?");
             System.out.println(jogador.getNome() + ": Não, ele disse 'Que você tenha paz na morte'.");
             System.out.println("Alethius : Primeiro, onde você aprendeu a falar Quenya? Segundo, que astral baixo pra quem tem que encorajar um grupo de soldados a lutar contra" +
@@ -254,7 +254,7 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius  : Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci  : Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs.");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um Orc");
             System.out.println("Alethius : Você devia se sentir honrado.");
             System.out.println("Adrianne Avenicci  : Honrado em morrer ao lado de uma raça corrompida por poder e ganância. Não me parece muito coerente");
@@ -319,7 +319,7 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius : Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci : Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs.");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um orc");
             System.out.println("Alethius : Você devia se sentir honrado. Nai yaryuvalyë estë sambassë Mandosto");
             System.out.println("Adrianne Avenicci : Que? Esse maluco de orelha pontuda xingou a gente?");
@@ -335,7 +335,7 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius : Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci : Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs.");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um orc");
             System.out.println("Alethius : Você devia se sentir honrado.");
             System.out.println("Adrianne Avenicci : Honrado em morrer ao lado de uma raça corrompida por poder e ganância. Não me parece muito coerente");
@@ -398,7 +398,7 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius : Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci : Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs.");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um orc");
             System.out.println("Alethius : Você devia se sentir honrado. Nai yaryuvalyë estë sambassë Mandosto");
             System.out.println("Adrianne Avenicci : Que? Esse maluco de orelha pontuda xingou a gente?");
@@ -414,7 +414,7 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius : Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci : Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs.");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um orc");
             System.out.println("Alethius : Você devia se sentir honrado.");
             System.out.println("Adrianne Avenicci : Honrado em morrer ao lado de uma raça corrompida por poder e ganância. Não me parece muito coerente");
@@ -479,9 +479,9 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius: Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci: Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs.");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um orc");
-            System.out.println("Alethius: Você devia se sentir honrado. Nai yaryuvalyë estë sambassë Mandosto");
+            System.out.println("Alethius: Você devia se sentir honrado");
             System.out.println("Adrianne Avenicci: Que? Esse maluco de orelha pontuda xingou a gente?");
             System.out.println(jogador.getNome() + ": Não, ele disse 'Que você tenha paz na morte'.");
             System.out.println("Adrianne Avenicci: Primeiro, onde você aprendeu a falar Quenya? Segundo, que astral baixo pra quem tem que encorajar um grupo de soldados a lutar contra" +
@@ -495,7 +495,7 @@ public abstract class Cenarios {
             System.out.println(jogador.getNome() + ": Perdão, não conseguimos chegar a tempo");
             System.out.println("Alethius: Não é hora de se preocupar com isso, estamos em meio a uma guerra. Tivemos sorte de ter poucas baixas.");
             System.out.println("Adrianne Avenicci: Desculpa interromper vossa senhoria(com ironia), mas eu acho que vale a pena vocês darem uma olhada em volta");
-            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs, e Sauron estava no topo da montanha, comandando todos.");
+            System.out.println("Narrador: Ao olhar, você e Alethius percebem que foram cercados por um exército de incontáveis orcs.");
             System.out.println(jogador.getNome() + ": É, parece que vou morrer lutando ao lado de um orc");
             System.out.println("Alethius: Você devia se sentir honrado.");
             System.out.println("Adrianne Avenicci: Honrado em morrer ao lado de uma raça corrompida por poder e ganância. Não me parece muito coerente");
@@ -517,29 +517,27 @@ public abstract class Cenarios {
         System.out.println("Narrador: Adrianne Avenicci fecha os olhos e para de respirar. Em prantos, você se levanta, disposto a cumprir sua promessa. Você olha ao lado e vê homens e orcs amedrontados,\n" +
                 "desesperados com a batalha, com medo da morte. Com o resto da força que lhe resta, você pega uma espada, sobe em uma pedra, ergue o braço e grita:");
         if(Objects.equals(jogador.getRaca(), "Homem")) {
-            System.out.println(jogador.getNome() + ": Levantem-se, levantem-se, Guerreiros de Elendil! Lanças serão brandidas, escudos serão quebrados. Um dia de luta,de espadas, um dia vermelho!\n" +
+            System.out.println(jogador.getNome() + ": Levantem-se, levantem-se, Guerreiros!! Lanças serão brandidas, escudos serão quebrados. Um dia de luta,de espadas, um dia vermelho!\n" +
                     "Antes que o sol nasça, lutem! Marchem em direção a morte! Pela honra de nossas terras e amigos! PELA MORTE!");
             System.out.println("Multidão: MORTE!!!! MORTEEE!!!!!!");
             System.out.println(jogador.getNome() + ": PELA MORTEEEE!");
         }else{
-            System.out.println(jogador.getNome() + ": Levantem-se, levantem-se, Guerreiros de Gil-galad! Lanças serão brandidas, escudos serão quebrados. Um dia de luta,de arcos e flechas, um dia vermelho!\n" +
+            System.out.println(jogador.getNome() + ": Levantem-se, levantem-se, Guerreiros!!! Lanças serão brandidas, escudos serão quebrados. Um dia de luta,de arcos e flechas, um dia vermelho!\n" +
                     "Antes que o sol nasça, lutem! Marchem em direção a morte! Pela honra de nossas terras e amigos! PELA MORTE!");
             System.out.println("Multidão: MORTE!!!! MORTEEE!!!!!!");
             System.out.println(jogador.getNome() + ": PELA MORTEEEE!");
         }
         System.out.println("Narrador: Você e Alethius comandam seus aliados em uma última batalha, em direção a morte. A fúria e inspiração nos corações dos guerreiros lhe dão uma força que\n" +
-                "asussta os orcs. Homens e orcs perfurados por espadas e flechas, com braços dilacerados e pernas quebras, usam suas últimas forças para dizimar a maior quantidade de orcs.");
+                "assusta os orcs. Homens e orcs perfurados por espadas e flechas, com braços dilacerados e pernas quebras, usam suas últimas forças para dizimar a maior quantidade de orcs.");
         System.out.println("Narrador: Mas mesmo assim, os orcs eram muitos. Pouco a pouco todos foram morrendo. Mas morriam com orgulho e honra, felizes pela luta. O cansaço te atinge e você cai ao solo.\n" +
                 "Aceitando sua morte, você olha em volta. Alethius também está no seu final, e os homens e orcs que restaram foram poucos.");
-        System.out.println("Narrador: Quando você enfim aceitará a sua morte, você vê um clarão na distância e um grito de dor. Isildur havia cortado o anel do dedo de Sauron. O um Anel,\n" +
-                "que mantinha a essência de Sauron no corpo físico, havia sido cortado. Logo em seguida, o clarão se aumenta e o corpo físico do Senhor das Trevas se desintegra em uma explosão\n" +
+        System.out.println("Narrador: Quando você enfim aceitará a sua morte, você vê um clarão na distância e um grito de dor. Alethius havia cortado inúmeras cabeças de Orcs.\n" +
+                "Este mantinha a essência de Whiterun no corpo físico, havia sido cortado. Logo em seguida, o clarão se aumenta e o corpo físico do Senhor das armas se desintegra em uma explosão\n" +
                 "de luz e força, derrubando todos e fazendo com que todos os orcs recuassem com medo.");
-        System.out.println("Narrador: O cerco de Barad-Dur cherá ao fim, e A Última Aliança saiu vitoriosa.");
+        System.out.println("Narrador: O cerco de Imperiais chegará ao fim, e A Última Aliança saiu vitoriosa.");
         System.out.println("Narrador: Você se levanta e olha para Alethius. Ele se despede, sinalizando assim o fim da aliança entre Homens e orcs");
-        System.out.println("Narrador: Após essa batalha, os orcs se retiraram para os Portos Cinzentos e navegaram em direção a Whiterun, a Terra dos Imortais, para viver em meio aos Valar.\n" +
-                "Já os homens, continuaram a construir seu império juntamente aos Anões e aos poucos orcs que restaram na Terra Média. Isildur se recusou a destruir o Um Anel, e o perdeu quando\n" +
-                "foi morto. Ele permaneceu perdido por mais de 2000 anos, até que dois hobbits, criaturas pequenas e simpáticas, mas com uma enorme força espiritual e pacífica, chamados Deagle e Smeagle\n" +
-                " encontraram o Um Anel, dando início as aventuras contadas em O Hobbit e na trilogia Senhor dos Anéis. ");
+        System.out.println("Narrador: Após essa batalha, os orcs se retiraram e navegaram em direção as montanhas, a Terra dos Orcs, para viver em meio as névoas.\n" +
+                "Já os homens, continuaram a construir seu império.");
         sc.close();
         return 0;
     }

@@ -84,8 +84,8 @@ public class Main {
 
         if (Objects.equals(jogador.getRaca(), "Homem")) {
             Alethius = new Playable("Bosmer", "Orc", 20);
-            ALethius.addWeapon(genericArrow);
-            aliancaALethius = new Alianca(Alethius,"Orc",numMembrosNovaAlianca);
+            Alethius.addWeapon(genericArrow);
+            aliancaAlethius = new Alianca(Alethius,"Orc",numMembrosNovaAlianca);
         }else{
             Alethius = new Playable("Bosmer", "Homem", 20);
             Alethius.addWeapon(genericSword);
