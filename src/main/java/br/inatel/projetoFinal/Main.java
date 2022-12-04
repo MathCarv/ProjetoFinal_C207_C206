@@ -76,31 +76,31 @@ public class Main {
             aliancaPrincipal.setNumMembros(3);
         }
 
-        Playable elros = null;
-        Alianca aliancaElros = null;
+        Playable Alethius = null;
+        Alianca aliancaAlethius = null;
 
         Espada genericSword = new Espada(3,"S");
         Arco genericArrow = new Arco(3,"L");
 
         if (Objects.equals(jogador.getRaca(), "Homem")) {
-            elros = new Playable("Bosmer", "Orc", 20);
-            elros.addWeapon(genericArrow);
-            aliancaElros = new Alianca(elros,"Orc",numMembrosNovaAlianca);
+            Alethius = new Playable("Bosmer", "Orc", 20);
+            ALethius.addWeapon(genericArrow);
+            aliancaALethius = new Alianca(Alethius,"Orc",numMembrosNovaAlianca);
         }else{
-            elros = new Playable("Bosmer", "Homem", 20);
-            elros.addWeapon(genericSword);
-            aliancaElros = new Alianca(elros,"Orc",numMembrosNovaAlianca);
+            Alethius = new Playable("Bosmer", "Homem", 20);
+            Alethius.addWeapon(genericSword);
+            aliancaAlethius = new Alianca(Alethius,"Orc",numMembrosNovaAlianca);
         }
-        aliancaPrincipal.adicionarAlianca(aliancaElros);
-        aliancaElros.adicionarAlianca(aliancaPrincipal);
+        aliancaPrincipal.adicionarAlianca(aliancaAlethius);
+        aliancaAlethius.adicionarAlianca(aliancaPrincipal);
 
-        playabledb.insertPersonagem(elros);
-        for (Weapon w: elros.getArmas()) {
+        playabledb.insertPersonagem(Alethius);
+        for (Weapon w: Alethius.getArmas()) {
             if(w != null){
-                weaponDB.insertWeapon(w,elros);
+                weaponDB.insertWeapon(w,Alethius);
             }
         }
-        aliancaDB.insertAlianca(aliancaElros);
+        aliancaDB.insertAlianca(aliancaAlethius);
         aliancaDB.updateAliados(aliancaPrincipal);
         aliancaDB.updateAlianca(aliancaPrincipal,aliancaPrincipal.getNumMembros());
 
