@@ -26,5 +26,5 @@ Foram feitas algumas aplicações no projeto com base nos conceitos aprendidos e
 ## Funcionalidades do código
 - O código é um jogo baseado no formato Decision Making;
 - O código exibe as características do seu personagem e dos inimigos que você enfrentar;
-- Encena a batalha e atualiza os dados equanto os exibe no console;
+- Encena a batalha e atualiza os dados enquanto os exibe no console;
 
